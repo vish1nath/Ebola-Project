@@ -4,9 +4,9 @@
 
 #The visulizations are target for Health organizations, Governments and general public
 #Data is collected from World Health Organization(WHO),Center of diseases prevention(CDC),Funds Tracking System(FTS),International Air transportation Association(IATA)
-#Below are the list of visulizations created
-#1. Chronological order of Ebola outbreak
-# 2. Sanitation facility in africa
+Below are the list of visulizations created
+1. Chronological order of Ebola outbreak
+2. Sanitation facility in africa
 3. Mobility of people in west africa
 4. Forecasting the Ebola cases
 5. District wise distribution of Ebola cases
